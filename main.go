@@ -1,5 +1,5 @@
 package go_test
 
-func MyFunc() {
-
+func MyFunc() string {
+	return "tt"
 }
